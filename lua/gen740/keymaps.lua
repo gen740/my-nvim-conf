@@ -1,7 +1,7 @@
 local global_keymap = {
   i = {
-    ['<c-h>'] = '<cmd>Copilot suggestion next<cr>',
-    ['<c-l>'] = '<cmd>Copilot suggestion prev<cr>',
+    ['<c-l>'] = '<cmd>Copilot suggestion next<cr>',
+    ['<c-h>'] = '<cmd>Copilot suggestion prev<cr>',
     ['<c-t>'] = '<cmd>Copilot suggestion accept<cr>',
     ['<m-w>'] = '<cmd>Copilot suggestion accept_word<cr>',
     ['<m-l>'] = '<cmd>Copilot suggestion accept_line<cr>',
